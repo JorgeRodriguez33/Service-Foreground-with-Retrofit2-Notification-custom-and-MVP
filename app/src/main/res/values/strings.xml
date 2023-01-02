@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ServiceWhitRetrofit2</string>
+
+    <string name="URL">https://weatherbit-v1-mashape.p.rapidapi.com/</string>
+
+</resources>
